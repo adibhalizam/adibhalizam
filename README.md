@@ -1,7 +1,11 @@
 <h1>Hi 👋, I'm Adib Halizam</h1>
-<img src="https://shorturl.at/jLRV8" width="200" height="200"> <br>
+<!-- <img src="https://shorturl.at/jLRV8" width="200" height="200"> <br> -->
 <!-- <h3>An Aspiring Software Engineer</h3> -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=adibhalizam&label=Profile%20Views&color=1&icon=5&pretty=true" />
+</a>
 
 [![](https://visitcount.itsvg.in/api?id=adibhalizam&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
