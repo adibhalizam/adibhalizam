@@ -7,14 +7,7 @@
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
-
 <br>
-- ✨ I/m an aspiring software engineer
-- 🔭 I’m currently working on Developing a Fullstack Web Application
-- 🌱 I’m currently learning Android Mobile Apps Development, Docker, Kotlin
-- 😄 Personal website: [link]()
-- ⚡ Fun fact: I’m currently open for an Intern or a new job opportunity, this is [my resume]()
 
 <br><br>
 
