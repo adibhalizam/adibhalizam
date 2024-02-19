@@ -3,10 +3,6 @@
 <!-- <h3>An Aspiring Software Engineer</h3> -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=adibhalizam&label=Profile%20Views&color=1&icon=5&pretty=true" />
-</a>
-
 [![](https://visitcount.itsvg.in/api?id=adibhalizam&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
