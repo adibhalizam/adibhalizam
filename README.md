@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Adib Halizam</h1>
+<img src="https://shorturl.at/jLRV8" width="200" height="200"> <br>
 <h3>An Aspiring Software Engineer</h3>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 [![](https://visitcount.itsvg.in/api?id=adibhalizam&icon=5&color=0)](https://visitcount.itsvg.in)
