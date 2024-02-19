@@ -10,11 +10,10 @@
 
 <br>
 
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
-- Personal website [link](https://www.0xabdulkhalid.ml)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+- 🔭 I’m currently working on Developing a Fullstack Web Application
+- 🌱 I’m currently learning Android Mobile Apps Development, Docker, Kotlin
+- 😄 Personal website: [link]()
+- ⚡ Fun fact: I’m currently open for an Intern or a new job opportunity, this is [my resume]()
 
 <br><br>
 
