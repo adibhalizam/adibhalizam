@@ -10,7 +10,7 @@
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 <br>
-
+- ✨ I/m an aspiring software engineer
 - 🔭 I’m currently working on Developing a Fullstack Web Application
 - 🌱 I’m currently learning Android Mobile Apps Development, Docker, Kotlin
 - 😄 Personal website: [link]()
