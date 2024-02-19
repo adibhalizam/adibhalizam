@@ -8,15 +8,10 @@
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 <br>
-
 - ✨ I'm an Aspiring Software Engineer
 - 🔭 I’m currently working on developing a full-stack web application
 - 🌱 I’m currently learning Android Mobile Apps Development, Docker, Kotlin
-- 😄 Personal website : [Link]()
-- ⚡ Resume : [My resume]()
-
 <br><br>
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adibhalizam) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adibhalizam) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/adibhalizam_) 
@@ -45,16 +40,12 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 <!--
 **adibhalizam/adibhalizam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+- 😄 Personal website : [Link]()
+- ⚡ Resume : [My resume]()
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
