@@ -8,9 +8,9 @@
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 <br>
-- ✨ I'm an Aspiring Software Engineer
-- 🔭 I’m currently working on developing a full-stack web application
-- 🌱 I’m currently learning Android Mobile Apps Development, Docker, Kotlin
+- ✨ I'm an Aspiring Software Engineer <br>
+- 🔭 I’m currently working on developing a full-stack web application <br>
+- 🌱 I’m currently learning Android Mobile Apps Development, Docker, Kotlin <br>
 <br><br>
 
 ## 🌐 Socials:
